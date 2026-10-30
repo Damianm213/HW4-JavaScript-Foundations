@@ -9,7 +9,7 @@ if (thisIsANewVariable === 10) {
 
 // Exercise 2: Defining Core Data Types
 
-let greetingMessage = `Hello, JavaScript!`;
+let greetingMessage = `Hello, Everyone!`;
 let decimalNumber = 10.5;
 let isReady = true;
 
